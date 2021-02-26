@@ -7,7 +7,11 @@ Web App testing how Angular works.
 
 ## Deploy:
 
-1. ng build --prod
-2. git remote add origin https://github.com/...
-3. ng add angular-cli-ghpages
-4. ng deploy --base-href=https://cesaralrvz...
+0. ng build --prod
+1. git init
+2. git add .
+3. git commit -m "First Commit"
+4. git remote add origin https://github.com/...
+5. git push -u origin master
+6. ng add angular-cli-ghpages
+7. ng deploy --base-href=https://cesaralrvz...
