@@ -16,3 +16,6 @@ Web App testing how Angular works.
 6. ng add angular-cli-ghpages
 7. ng deploy --base-href=https://cesaralrvz...
 
+git branch -M main
+git push -u origin main
+
